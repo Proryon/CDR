@@ -7,13 +7,14 @@ h1{
   h4{
     color: white;
     text-align: left;
-    font-size: 220%;
+    font-size: 400%;
     top: 99%;
     font-family: fantasy;
   }
   p{
     color: white;
     top: 10%;
+    font-size: 400%;
     text-align: right;
     font-family: fantasy;
   }

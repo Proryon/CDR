@@ -1,2 +1,3 @@
-# concour_du_resitant
- 
+# Concours du résistant
+
+Le site internet du **résistant**

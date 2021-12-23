@@ -1,44 +1,32 @@
 h1{
-    color: white;
     text-align: center;
     font-size: 500%;
     font-family: fantasy;
   }
   h4{
-    color: white;
     text-align: left;
     font-size: 400%;
     top: 99%;
     font-family: fantasy;
   }
   p{
-    color: white;
     top: 10%;
-    font-size: 400%;
+    font-size: 150%;
     text-align: right;
-    font-family: fantasy;
   }
-pc{
-    color: red;
-}
-  body {background-color: rgb(2, 0, 24);
-  } 
-  /*img {
-    width: 3%;
-    bottom: 5%;
-  }*/
-  titre{
-    color: rgb(255, 255, 255);
-    text-align: left;
-    font-size: 220%;
-    top: 99%;
+
+  .container{
+    display: flex;
+    width: 100%;
+    margin-block-start: 10%;
     font-family: fantasy;
-    width: 3%;
-    bottom: 5%;
-  
+    font-size: 125%;
   }
-  p {
-    font-size: 1rem;
-    font-family: sans-serif;
-    margin: 20px;
+
+  .container .black-left {
+    width: 70%;
+  }
+
+  .container .black-right{
+    width: 30%;
   }
